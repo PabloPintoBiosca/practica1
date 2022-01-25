@@ -1,0 +1,162 @@
+body{
+    margin:0 auto;
+    border:1px solid;
+}
+#fila{
+    padding:left;
+    background-color:cadetblue;
+
+}
+#fila p{
+    margin:0;
+}
+#fila2{
+    background-color:chocolate ;
+    padding:6px;
+}
+#fila2 p{
+    margin:0;
+    padding-left:3px;
+    border:1px solid red;
+    width: 160px;
+    background-color: yellow;
+}
+#fila3{
+    background-color:cyan ;
+    padding:6px;
+    height: 23px;;
+}
+#fila3 p{
+    margin:0;
+    padding-left:3px;
+    border:1px solid red;
+    background-color: yellow;
+    width: 160px;
+    float:left;
+    margin-right: 15px;
+}
+.margen{
+    padding-right:100px;
+}
+
+#fila4{
+    background-color:cyan ;
+    padding:6px;
+    height: 23px;;
+    border:1px solid;
+}
+#fila4 p{
+    margin:0;
+    padding-left:3px;
+    border:1px solid red;
+    background-color: yellow;
+    width: 100px;
+    float:left;
+    margin-right: 15px;
+}
+#fila5{
+    background-color:cyan ;
+    padding:6px;
+    height: 23px;
+}
+#fila5 p{
+    margin:0;
+    padding-left:3px;
+    border:1px solid red;
+    background-color: yellow;
+    width: 45px;
+    float:left;
+    margin-right: 15px;
+}
+.mas{
+    padding-right: 20px;
+}
+.mucho{
+    padding-right: 50px;
+}
+.mass{
+    padding-right: 70px;
+}
+#fila6{
+    background-color: rgb(186, 91, 233);
+    height:35px;
+}
+#fila7{
+    background-color:yellowgreen ;
+    padding:6px;
+    height: 23px;
+    margin-top: 2px;
+}
+#fila7 p{
+    margin:0;
+    padding-left:3px;
+    border:1px solid red;
+    background-color: yellow;
+    width: 160px;
+    float:right;
+    margin-right: 15px;
+}
+#fila8{
+    background-color:rgb(126, 126, 223) ;
+    padding:6px;
+    height: 23px;
+    margin-top: 2px;
+}
+#fila8 p{
+    margin:0;
+    padding-left:3px;
+    border:1px solid red;
+    background-color: yellow;
+    width: 160px;
+    float:right;
+    margin-right: 15px;
+}
+#fila9{
+    background-color:rgb(212, 114, 231) ;
+    padding:6px;
+    height: 23px;
+    margin-top: 2px;
+}
+#fila9 p{
+    margin:0;
+    padding-left:3px;
+    border:1px solid red;
+    background-color: yellow;
+    width: 160px;
+    float:right;
+    margin-right: 15px;
+}#fila10{
+    background-color:rgb(126, 126, 223) ;
+    padding:6px;
+    height: 23px;
+    margin-top: 2px;
+}
+#fila10 p{
+    margin:0;
+    padding-left:3px;
+    border:1px solid red;
+    background-color: yellow;
+    width: 160px;
+    margin-right: 15px;
+}
+.izqq{
+    float:left;
+}
+.der{
+    float:right;
+}
+#fila14{
+    background-color:rgb(126, 126, 223) ;
+    padding:6px;
+    height: 23px;
+    margin-top: 2px;
+}
+#fila14 p{
+    margin:0;
+    padding-left:3px;
+    border:1px solid red;
+    background-color: yellow;
+    width: 160px;
+    margin-right: 15px;
+
+}
